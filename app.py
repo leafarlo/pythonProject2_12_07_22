@@ -8,6 +8,6 @@ while e >= 0:
      new_sent.append(zin_lijst[e])
      e -=1
 
-zin_reverse = " ".join(new_sent)
-print(zin_reverse)
+zin_omgekeerd = " ".join(new_sent)
+print(zin_omgekeerd)
 
